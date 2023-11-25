@@ -1,0 +1,28 @@
+/*!
+  * Item: Kitzu
+  * Description: Personal Portfolio Template
+  * Author/Developer: Exill
+  * Author/Developer URL: https://themeforest.net/user/exill
+  * Version: v2.0.0
+  * License: Themeforest Standard Licenses: https://themeforest.net/licenses
+  */
+
+  @font-face {
+    font-family: 'ir';
+    src: url(../fonts/IRANSansWeb.woff?56ae948d2fcc0d8bf4097031a0406e48)
+      format('woff');
+  }
+
+  .myfont{
+    font-family: 'ir';
+  }
+
+  @media (max-width:500px) {
+    
+    .fsm{
+      font-size: 2rem !important;
+    }
+    .mr-ml{
+      margin-right: 1.8rem !important;
+    }
+  }
